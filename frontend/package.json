@@ -1,0 +1,16 @@
+{
+  "name": "student-quiz-frontend",
+  "version": "1.0.0",
+  
+  "scripts": {
+    "start": "parcel public/index.html --open"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
+}
