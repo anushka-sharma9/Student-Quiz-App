@@ -21,6 +21,7 @@ Submit answers to all question types.
 Responses are saved in a database.
 
 Tech Stack
+
 Frontend - React.js
 Backend - Node.js / Express.js 
 Database - MongoDB 
@@ -31,6 +32,7 @@ Node.js & npm
 MongoDB/Firebase backend (or any preferred backend)
 
 Installation
+
 cd student-quiz-app
 npm install
 
