@@ -31,31 +31,13 @@ Node.js & npm
 MongoDB/Firebase backend (or any preferred backend)
 
 Installation
-git clone https://github.com/your-username/student-quiz-app.git
 cd student-quiz-app
 npm install
 
 Run the App
 npm start
 
-Structure
-student-quiz-app/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── TeacherForm.jsx
-│   │   ├── StudentTest.jsx
-│   │   ├── QuestionCard.jsx
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── Teacher.jsx
-│   │   ├── Student.jsx
-│   ├── utils/
-│   │   └── api.js
-│   ├── App.jsx
-│   ├── index.js
-├── README.md
-├── package.json
+
 
 
 
